@@ -1,128 +1,128 @@
-# China Apps PRO DOMAIN-SUFFIX List
+# China Apps PRO DOMAIN-SUFFIX List (No Strategy Version)
 # Author: ChatGPT for 泡
-# Purpose: 国内应用直连（Speed up Chinese apps）
+# Purpose: 国内应用域名（策略由 Shadowrocket 决定）
+# Format: DOMAIN-SUFFIX,example.com
 
 # ======= 阿里系 =======
-DOMAIN-SUFFIX,taobao.com,DIRECT
-DOMAIN-SUFFIX,tmall.com,DIRECT
-DOMAIN-SUFFIX,alicdn.com,DIRECT
-DOMAIN-SUFFIX,alipay.com,DIRECT
-DOMAIN-SUFFIX,aliyun.com,DIRECT
-DOMAIN-SUFFIX,ykimg.com,DIRECT
-DOMAIN-SUFFIX,mmstat.com,DIRECT
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,mmstat.com
 
 # ======= 京东 =======
-DOMAIN-SUFFIX,jd.com,DIRECT
-DOMAIN-SUFFIX,jcloud.com,DIRECT
-DOMAIN-SUFFIX,360buyimg.com,DIRECT
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jcloud.com
+DOMAIN-SUFFIX,360buyimg.com
 
 # ======= 哈啰出行 =======
-DOMAIN-SUFFIX,hellobike.com,DIRECT
+DOMAIN-SUFFIX,hellobike.com
 
 # ======= 滴滴 =======
-DOMAIN-SUFFIX,didiglobal.com,DIRECT
-DOMAIN-SUFFIX,diditaxi.com,DIRECT
-DOMAIN-SUFFIX,xiaojukeji.com,DIRECT
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,diditaxi.com
+DOMAIN-SUFFIX,xiaojukeji.com
 
 # ======= 美团 =======
-DOMAIN-SUFFIX,meituan.com,DIRECT
-DOMAIN-SUFFIX,dpfile.com,DIRECT
-DOMAIN-SUFFIX,maoyan.com,DIRECT
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,dpfile.com
+DOMAIN-SUFFIX,maoyan.com
 
 # ======= 拼多多 =======
-DOMAIN-SUFFIX,pinduoduo.com,DIRECT
-DOMAIN-SUFFIX,yangkeduo.com,DIRECT
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
 
 # ======= 字节跳动（抖音/头条） =======
-DOMAIN-SUFFIX,douyin.com,DIRECT
-DOMAIN-SUFFIX,ixigua.com,DIRECT
-DOMAIN-SUFFIX,snssdk.com,DIRECT
-DOMAIN-SUFFIX,toutiao.com,DIRECT
-DOMAIN-SUFFIX,bytedance.com,DIRECT
-DOMAIN-SUFFIX,bytedance.net,DIRECT
-DOMAIN-SUFFIX,bytecdn.cn,DIRECT
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytecdn.cn
 
 # ======= 小红书 =======
-DOMAIN-SUFFIX,xiaohongshu.com,DIRECT
-DOMAIN-SUFFIX,xhscdn.com,DIRECT
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
 
 # ======= Bilibili =======
-DOMAIN-SUFFIX,bilibili.com,DIRECT
-DOMAIN-SUFFIX,hdslb.com,DIRECT
-DOMAIN-SUFFIX,acg.tv,DIRECT
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,acg.tv
 
-# ======= 网易系 =======
-DOMAIN-SUFFIX,163.com,DIRECT
-DOMAIN-SUFFIX,netease.com,DIRECT
-DOMAIN-SUFFIX,126.net,DIRECT
+# ======= 网易 =======
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,126.net
 
 # ======= 小米 / 米家 =======
-DOMAIN-SUFFIX,xiaomi.com,DIRECT
-DOMAIN-SUFFIX,mi.com,DIRECT
-DOMAIN-SUFFIX,mijia.tech,DIRECT
-DOMAIN-SUFFIX,miui.com,DIRECT
-DOMAIN-SUFFIX,milink.cn,DIRECT
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,milink.cn
 
 # ======= 华为 =======
-DOMAIN-SUFFIX,huawei.com,DIRECT
-DOMAIN-SUFFIX,honor.com,DIRECT
-DOMAIN-SUFFIX,hicloud.com,DIRECT
-DOMAIN-SUFFIX,vmall.com,DIRECT
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,honor.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,vmall.com
 
-# ======= TP-LINK / 网络设备 =======
-DOMAIN-SUFFIX,tp-link.com.cn,DIRECT
-DOMAIN-SUFFIX,tplinkcloud.com,DIRECT
+# ======= TP-LINK =======
+DOMAIN-SUFFIX,tp-link.com.cn
+DOMAIN-SUFFIX,tplinkcloud.com
 
-# ======= 美的 / 海尔 / 格力智能家居 =======
-DOMAIN-SUFFIX,midea.com,DIRECT
-DOMAIN-SUFFIX,gree.com,DIRECT
-DOMAIN-SUFFIX,haier.com,DIRECT
+# ======= 美的 / 格力 / 海尔智能家居 =======
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,gree.com
+DOMAIN-SUFFIX,haier.com
 
 # ======= 海康 / 萤石 =======
-DOMAIN-SUFFIX,hikvision.com,DIRECT
-DOMAIN-SUFFIX,ezvizlife.com,DIRECT
+DOMAIN-SUFFIX,hikvision.com
+DOMAIN-SUFFIX,ezvizlife.com
 
 # ======= 银行 =======
-DOMAIN-SUFFIX,cmbchina.com,DIRECT
-DOMAIN-SUFFIX,ccb.com,DIRECT
-DOMAIN-SUFFIX,abchina.com,DIRECT
-DOMAIN-SUFFIX,psbc.com,DIRECT
-DOMAIN-SUFFIX,icbc.com.cn,DIRECT
-DOMAIN-SUFFIX,bankcomm.com,DIRECT
-DOMAIN-SUFFIX,unionpay.com,DIRECT
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,unionpay.com
 
 # ======= 交通出行 =======
-DOMAIN-SUFFIX,12306.cn,DIRECT
-DOMAIN-SUFFIX,umetrip.com,DIRECT
-DOMAIN-SUFFIX,airchina.com.cn,DIRECT
-DOMAIN-SUFFIX,csair.com,DIRECT
-DOMAIN-SUFFIX,feeyo.com,DIRECT
-
-# ======= 政务 =======
-DOMAIN-SUFFIX,gov.cn,DIRECT
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,airchina.com.cn
+DOMAIN-SUFFIX,csair.com
+DOMAIN-SUFFIX,feeyo.com
 
 # ======= 百度 =======
-DOMAIN-SUFFIX,baidu.com,DIRECT
-DOMAIN-SUFFIX,bdstatic.com,DIRECT
-DOMAIN-SUFFIX,baidubce.com,DIRECT
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,baidubce.com
 
-# ======= 视频、音乐 =======
-DOMAIN-SUFFIX,youku.com,DIRECT
-DOMAIN-SUFFIX,iqiyi.com,DIRECT
-DOMAIN-SUFFIX,kuwo.cn,DIRECT
-DOMAIN-SUFFIX,kugou.com,DIRECT
+# ======= 视频 / 音乐 =======
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,kugou.com
 
 # ======= 腾讯 =======
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-SUFFIX,wechat.com,DIRECT
-DOMAIN-SUFFIX,weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,tencent.com,DIRECT
-DOMAIN-SUFFIX,qpic.cn,DIRECT
-DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,gtimg.com
 
-# ======= 工具类 =======
-DOMAIN-SUFFIX,wps.cn,DIRECT
-DOMAIN-SUFFIX,ksosoft.com,DIRECT
-DOMAIN-SUFFIX,anjuke.com,DIRECT
-DOMAIN-SUFFIX,klook.com,DIRECT
-DOMAIN-SUFFIX,qyer.com,DIRECT
+# ======= 其他常见中国域名 =======
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,klook.com
+DOMAIN-SUFFIX,qyer.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
