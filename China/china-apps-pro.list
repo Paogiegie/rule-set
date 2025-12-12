@@ -1,0 +1,128 @@
+# China Apps PRO DOMAIN-SUFFIX List
+# Author: ChatGPT for 泡
+# Purpose: 国内应用直连（Speed up Chinese apps）
+
+# ======= 阿里系 =======
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
+DOMAIN-SUFFIX,alicdn.com,DIRECT
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,aliyun.com,DIRECT
+DOMAIN-SUFFIX,ykimg.com,DIRECT
+DOMAIN-SUFFIX,mmstat.com,DIRECT
+
+# ======= 京东 =======
+DOMAIN-SUFFIX,jd.com,DIRECT
+DOMAIN-SUFFIX,jcloud.com,DIRECT
+DOMAIN-SUFFIX,360buyimg.com,DIRECT
+
+# ======= 哈啰出行 =======
+DOMAIN-SUFFIX,hellobike.com,DIRECT
+
+# ======= 滴滴 =======
+DOMAIN-SUFFIX,didiglobal.com,DIRECT
+DOMAIN-SUFFIX,diditaxi.com,DIRECT
+DOMAIN-SUFFIX,xiaojukeji.com,DIRECT
+
+# ======= 美团 =======
+DOMAIN-SUFFIX,meituan.com,DIRECT
+DOMAIN-SUFFIX,dpfile.com,DIRECT
+DOMAIN-SUFFIX,maoyan.com,DIRECT
+
+# ======= 拼多多 =======
+DOMAIN-SUFFIX,pinduoduo.com,DIRECT
+DOMAIN-SUFFIX,yangkeduo.com,DIRECT
+
+# ======= 字节跳动（抖音/头条） =======
+DOMAIN-SUFFIX,douyin.com,DIRECT
+DOMAIN-SUFFIX,ixigua.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,toutiao.com,DIRECT
+DOMAIN-SUFFIX,bytedance.com,DIRECT
+DOMAIN-SUFFIX,bytedance.net,DIRECT
+DOMAIN-SUFFIX,bytecdn.cn,DIRECT
+
+# ======= 小红书 =======
+DOMAIN-SUFFIX,xiaohongshu.com,DIRECT
+DOMAIN-SUFFIX,xhscdn.com,DIRECT
+
+# ======= Bilibili =======
+DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,hdslb.com,DIRECT
+DOMAIN-SUFFIX,acg.tv,DIRECT
+
+# ======= 网易系 =======
+DOMAIN-SUFFIX,163.com,DIRECT
+DOMAIN-SUFFIX,netease.com,DIRECT
+DOMAIN-SUFFIX,126.net,DIRECT
+
+# ======= 小米 / 米家 =======
+DOMAIN-SUFFIX,xiaomi.com,DIRECT
+DOMAIN-SUFFIX,mi.com,DIRECT
+DOMAIN-SUFFIX,mijia.tech,DIRECT
+DOMAIN-SUFFIX,miui.com,DIRECT
+DOMAIN-SUFFIX,milink.cn,DIRECT
+
+# ======= 华为 =======
+DOMAIN-SUFFIX,huawei.com,DIRECT
+DOMAIN-SUFFIX,honor.com,DIRECT
+DOMAIN-SUFFIX,hicloud.com,DIRECT
+DOMAIN-SUFFIX,vmall.com,DIRECT
+
+# ======= TP-LINK / 网络设备 =======
+DOMAIN-SUFFIX,tp-link.com.cn,DIRECT
+DOMAIN-SUFFIX,tplinkcloud.com,DIRECT
+
+# ======= 美的 / 海尔 / 格力智能家居 =======
+DOMAIN-SUFFIX,midea.com,DIRECT
+DOMAIN-SUFFIX,gree.com,DIRECT
+DOMAIN-SUFFIX,haier.com,DIRECT
+
+# ======= 海康 / 萤石 =======
+DOMAIN-SUFFIX,hikvision.com,DIRECT
+DOMAIN-SUFFIX,ezvizlife.com,DIRECT
+
+# ======= 银行 =======
+DOMAIN-SUFFIX,cmbchina.com,DIRECT
+DOMAIN-SUFFIX,ccb.com,DIRECT
+DOMAIN-SUFFIX,abchina.com,DIRECT
+DOMAIN-SUFFIX,psbc.com,DIRECT
+DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+DOMAIN-SUFFIX,bankcomm.com,DIRECT
+DOMAIN-SUFFIX,unionpay.com,DIRECT
+
+# ======= 交通出行 =======
+DOMAIN-SUFFIX,12306.cn,DIRECT
+DOMAIN-SUFFIX,umetrip.com,DIRECT
+DOMAIN-SUFFIX,airchina.com.cn,DIRECT
+DOMAIN-SUFFIX,csair.com,DIRECT
+DOMAIN-SUFFIX,feeyo.com,DIRECT
+
+# ======= 政务 =======
+DOMAIN-SUFFIX,gov.cn,DIRECT
+
+# ======= 百度 =======
+DOMAIN-SUFFIX,baidu.com,DIRECT
+DOMAIN-SUFFIX,bdstatic.com,DIRECT
+DOMAIN-SUFFIX,baidubce.com,DIRECT
+
+# ======= 视频、音乐 =======
+DOMAIN-SUFFIX,youku.com,DIRECT
+DOMAIN-SUFFIX,iqiyi.com,DIRECT
+DOMAIN-SUFFIX,kuwo.cn,DIRECT
+DOMAIN-SUFFIX,kugou.com,DIRECT
+
+# ======= 腾讯 =======
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,tencent.com,DIRECT
+DOMAIN-SUFFIX,qpic.cn,DIRECT
+DOMAIN-SUFFIX,gtimg.com,DIRECT
+
+# ======= 工具类 =======
+DOMAIN-SUFFIX,wps.cn,DIRECT
+DOMAIN-SUFFIX,ksosoft.com,DIRECT
+DOMAIN-SUFFIX,anjuke.com,DIRECT
+DOMAIN-SUFFIX,klook.com,DIRECT
+DOMAIN-SUFFIX,qyer.com,DIRECT
