@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,haier.com
 # ======= 海康 / 萤石 =======
 DOMAIN-SUFFIX,hikvision.com
 DOMAIN-SUFFIX,ezvizlife.com
+DOMAIN-SUFFIX,hikiot.com
 
 # ======= 银行 =======
 DOMAIN-SUFFIX,cmbchina.com
@@ -126,3 +127,5 @@ DOMAIN-SUFFIX,klook.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,vanward.com
+DOMAIN-SUFFIX,163.com
